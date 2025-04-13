@@ -17,6 +17,6 @@
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/YourUsername/locateown.git
+git clone https://github.com/ArifAli8866/LocateOwn-IP-Tracker.git
 cd locateown
 pip install requests

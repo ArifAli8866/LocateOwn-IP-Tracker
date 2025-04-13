@@ -1,2 +1,22 @@
-# LocateOwn-IP-Tracker
-LocateOwn is a terminal-based IP geolocation tool built with Python for Kali Linux users. It fetches location, ISP, city, region, and more using the ipinfo.io API. Designed with a sleek UI and crafted by Arif Ali for ethical hacking and cybersecurity enthusiasts.
+# 🔍 LocateOwn - IP Locator Tool
+
+**LocateOwn** is a beautifully designed terminal-based IP Geolocation tool made for **Kali Linux** and other Linux distributions. It allows users to find details about any IP address like city, region, country, location, and ISP using the `ipinfo.io` API.
+
+---
+
+## ✨ Features
+
+- 📍 Track any IP address
+- 🖥️ Beautiful terminal UI
+- 🛠️ Built with Python
+- 🌐 Uses `ipinfo.io`
+- 🧑‍💻 Made by **Arif Ali**
+
+---
+
+## 📦 Installation
+
+```bash
+git clone https://github.com/YourUsername/locateown.git
+cd locateown
+pip install requests
